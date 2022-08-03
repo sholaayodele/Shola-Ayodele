@@ -84,7 +84,7 @@ You will require a working python installation (including pip), if you don't hav
 
 Create a virtual environment
 
-    python -m venv venv
+    python3 -m venv venv
 
 Activate the virtual environment
 
