@@ -32,7 +32,7 @@ This degree of testing verifies the working of the individual units of our appli
 - Problems are found before time
 - Debugging is easier
 
-  **Cons:**
+**Cons:**
 
 - Amount of code is significantly increased
 - They cant catch all errors
@@ -46,7 +46,7 @@ Integration tests, as the name suggests, are supposed to test integration betwee
 
 - Broader coverage
 
-  **Cons:**
+**Cons:**
 
 - Fragile and easily affected by changes in environment
 - Rely on accessibility of other parts of the system
@@ -64,7 +64,7 @@ Performance testing is a non-functional type of testing and involves the process
 - Tests stability of the system
 - Identifies bottlenecks in the system
 
-  **Cons:**
+**Cons:**
 
 - API is already live
 - Testing has to be done at off peak hours
